@@ -1,2 +1,4 @@
 # The Talking Machines
-Some exercises I did while listening to [*The Talking Machines*](http://www.thetalkingmachines.com/) podcast.
+Some machine learning exercises I did.    
+
+Behind the name: [*The Talking Machines*](http://www.thetalkingmachines.com/) podcast.
